@@ -1,0 +1,101 @@
+customer_id,customer_name,segment,country,city
+1,Customer 1,New,Egypt,Cairo
+2,Customer 2,New,UAE,Alexandria
+3,Customer 3,VIP,Egypt,Cairo
+4,Customer 4,New,Saudi Arabia,Cairo
+5,Customer 5,New,UAE,Cairo
+6,Customer 6,VIP,Egypt,Alexandria
+7,Customer 7,VIP,Saudi Arabia,Cairo
+8,Customer 8,New,Egypt,Riyadh
+9,Customer 9,VIP,UAE,Dubai
+10,Customer 10,VIP,Egypt,Riyadh
+11,Customer 11,Regular,UAE,Alexandria
+12,Customer 12,VIP,UAE,Cairo
+13,Customer 13,VIP,UAE,Cairo
+14,Customer 14,Regular,UAE,Dubai
+15,Customer 15,VIP,Saudi Arabia,Riyadh
+16,Customer 16,New,Egypt,Riyadh
+17,Customer 17,VIP,Saudi Arabia,Dubai
+18,Customer 18,New,Saudi Arabia,Dubai
+19,Customer 19,New,Egypt,Cairo
+20,Customer 20,VIP,Saudi Arabia,Alexandria
+21,Customer 21,Regular,Egypt,Alexandria
+22,Customer 22,VIP,UAE,Dubai
+23,Customer 23,Regular,Saudi Arabia,Dubai
+24,Customer 24,VIP,UAE,Dubai
+25,Customer 25,VIP,Saudi Arabia,Dubai
+26,Customer 26,New,Saudi Arabia,Cairo
+27,Customer 27,New,Saudi Arabia,Alexandria
+28,Customer 28,New,Saudi Arabia,Alexandria
+29,Customer 29,VIP,UAE,Riyadh
+30,Customer 30,Regular,Saudi Arabia,Alexandria
+31,Customer 31,New,UAE,Cairo
+32,Customer 32,VIP,Egypt,Dubai
+33,Customer 33,Regular,UAE,Cairo
+34,Customer 34,VIP,Saudi Arabia,Dubai
+35,Customer 35,VIP,Saudi Arabia,Riyadh
+36,Customer 36,Regular,Saudi Arabia,Riyadh
+37,Customer 37,VIP,UAE,Alexandria
+38,Customer 38,VIP,Saudi Arabia,Dubai
+39,Customer 39,New,Saudi Arabia,Riyadh
+40,Customer 40,New,UAE,Dubai
+41,Customer 41,VIP,Egypt,Riyadh
+42,Customer 42,VIP,Egypt,Cairo
+43,Customer 43,VIP,Saudi Arabia,Alexandria
+44,Customer 44,New,UAE,Cairo
+45,Customer 45,Regular,UAE,Riyadh
+46,Customer 46,New,UAE,Cairo
+47,Customer 47,New,Saudi Arabia,Cairo
+48,Customer 48,New,Saudi Arabia,Dubai
+49,Customer 49,New,UAE,Cairo
+50,Customer 50,Regular,UAE,Alexandria
+51,Customer 51,Regular,Egypt,Dubai
+52,Customer 52,New,Egypt,Cairo
+53,Customer 53,New,UAE,Alexandria
+54,Customer 54,VIP,UAE,Alexandria
+55,Customer 55,New,Saudi Arabia,Cairo
+56,Customer 56,New,UAE,Riyadh
+57,Customer 57,VIP,Egypt,Dubai
+58,Customer 58,Regular,Egypt,Cairo
+59,Customer 59,VIP,Saudi Arabia,Cairo
+60,Customer 60,VIP,Saudi Arabia,Riyadh
+61,Customer 61,VIP,Saudi Arabia,Alexandria
+62,Customer 62,VIP,Saudi Arabia,Riyadh
+63,Customer 63,New,Egypt,Dubai
+64,Customer 64,New,Saudi Arabia,Riyadh
+65,Customer 65,VIP,Saudi Arabia,Alexandria
+66,Customer 66,New,UAE,Riyadh
+67,Customer 67,New,Saudi Arabia,Dubai
+68,Customer 68,Regular,Saudi Arabia,Riyadh
+69,Customer 69,VIP,Egypt,Alexandria
+70,Customer 70,VIP,UAE,Cairo
+71,Customer 71,New,Saudi Arabia,Alexandria
+72,Customer 72,New,Egypt,Cairo
+73,Customer 73,VIP,Saudi Arabia,Cairo
+74,Customer 74,VIP,Egypt,Cairo
+75,Customer 75,Regular,Egypt,Alexandria
+76,Customer 76,Regular,Saudi Arabia,Riyadh
+77,Customer 77,VIP,Saudi Arabia,Alexandria
+78,Customer 78,New,Saudi Arabia,Riyadh
+79,Customer 79,VIP,UAE,Riyadh
+80,Customer 80,VIP,Egypt,Cairo
+81,Customer 81,New,UAE,Dubai
+82,Customer 82,Regular,UAE,Riyadh
+83,Customer 83,New,Egypt,Cairo
+84,Customer 84,VIP,UAE,Dubai
+85,Customer 85,VIP,Egypt,Alexandria
+86,Customer 86,VIP,Saudi Arabia,Riyadh
+87,Customer 87,VIP,UAE,Alexandria
+88,Customer 88,Regular,UAE,Alexandria
+89,Customer 89,VIP,UAE,Cairo
+90,Customer 90,VIP,Saudi Arabia,Cairo
+91,Customer 91,VIP,Egypt,Alexandria
+92,Customer 92,Regular,UAE,Riyadh
+93,Customer 93,VIP,UAE,Cairo
+94,Customer 94,VIP,UAE,Cairo
+95,Customer 95,Regular,UAE,Riyadh
+96,Customer 96,Regular,UAE,Riyadh
+97,Customer 97,VIP,Egypt,Dubai
+98,Customer 98,VIP,Egypt,Cairo
+99,Customer 99,New,UAE,Cairo
+100,Customer 100,VIP,Saudi Arabia,Riyadh

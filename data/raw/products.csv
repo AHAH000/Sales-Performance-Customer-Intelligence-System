@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price
+1,Product 1,Clothing,4169
+2,Product 2,Electronics,515
+3,Product 3,Electronics,1572
+4,Product 4,Electronics,4924
+5,Product 5,Sports,1976
+6,Product 6,Clothing,1032
+7,Product 7,Electronics,4792
+8,Product 8,Sports,721
+9,Product 9,Home Appliances,4831
+10,Product 10,Clothing,2186
+11,Product 11,Clothing,2623
+12,Product 12,Sports,2225
+13,Product 13,Home Appliances,1122
+14,Product 14,Home Appliances,3795
+15,Product 15,Electronics,644
+16,Product 16,Electronics,3804
+17,Product 17,Clothing,650
+18,Product 18,Home Appliances,4194
+19,Product 19,Home Appliances,1135
+20,Product 20,Clothing,613
+21,Product 21,Home Appliances,3077
+22,Product 22,Sports,1342
+23,Product 23,Home Appliances,4500
+24,Product 24,Electronics,4383
+25,Product 25,Home Appliances,4593
+26,Product 26,Clothing,898
+27,Product 27,Electronics,2216
+28,Product 28,Clothing,926
+29,Product 29,Home Appliances,2281
+30,Product 30,Home Appliances,1775
