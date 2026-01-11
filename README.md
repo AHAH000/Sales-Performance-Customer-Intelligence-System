@@ -111,21 +111,24 @@ An interactive Power BI dashboard was built using the SQL Server data warehouse.
 ---
 Project Structure:
 
-    │
-    ├── data/
-    │ ├── raw/
-    │ └── cleaned/
-    │
-    ├── sql/
-    │ └── analysis_queries.sql
-    │
-    ├── powerbi/
-    │ └── sales_dashboard.pbix
-    │
-    ├── docs/
-    │ └── star_schema.png
-    │
-    └── README.md
+## Project Structure
+│
+├── data/
+│ ├── raw/
+│ └── cleaned/
+│
+├── sql/
+│ └── analysis_queries.sql
+│
+├── powerbi/
+│ └── sales_dashboard.pbix
+│
+├── docs/
+│ └── star_schema.png
+│
+└── README.md
+
+
 ---
 
 ## Outcome
