@@ -109,25 +109,23 @@ An interactive Power BI dashboard was built using the SQL Server data warehouse.
 - **CSV Files** – Raw data source
 
 ---
+Project Structure:
 
-## Project Structure
-│
-├── data/
-│ ├── raw/
-│ └── cleaned/
-│
-├── sql/
-│ └── analysis_queries.sql
-│
-├── powerbi/
-│ └── sales_dashboard.pbix
-│
-├── docs/
-│ └── star_schema.png
-│
-└── README.md
-
-
+    │
+    ├── data/
+    │ ├── raw/
+    │ └── cleaned/
+    │
+    ├── sql/
+    │ └── analysis_queries.sql
+    │
+    ├── powerbi/
+    │ └── sales_dashboard.pbix
+    │
+    ├── docs/
+    │ └── star_schema.png
+    │
+    └── README.md
 ---
 
 ## Outcome
