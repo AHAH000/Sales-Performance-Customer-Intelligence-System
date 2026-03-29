@@ -88,8 +88,15 @@ JOIN dbo.stg_order_details od
     ON o.order_id = od.order_id;
 
 
-SELECT COUNT(*) FROM FactSales;
-SELECT TOP 10 * FROM FactSales;
+ALTER TABLE dbo.FactSales
+ADD CONSTRAINT FK_FactSales_Customer
+FOREIGN KEY (customer_id) REFERENCES dbo.DimCustomer(customer_id);
 
-SELECT SUM(revenue) AS TotalRevenue
-FROM FactSales;
+ALTER TABLE dbo.FactSales
+ADD CONSTRAINT FK_FactSales_Product
+FOREIGN KEY (product_id) REFERENCES dbo.DimProduct(product_id);
+
+ALTER TABLE dbo.FactSales
+ADD CONSTRAINT FK_FactSales_Date
+FOREIGN KEY (date_id) REFERENCES dbo.DimDate(date_id);
+GO
